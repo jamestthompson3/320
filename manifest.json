@@ -12,5 +12,6 @@
   "permissions": [
     "activeTab",
     "notifications"
-  ]
+  ],
+  "background": { "scripts": ["popup.js"] }
 }

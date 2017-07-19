@@ -10,5 +10,5 @@ if (window.Notification) {
   setInterval(function() {
     interval++;
        notify();
-  }, 6000);
+  }, 1200000 );
 }
