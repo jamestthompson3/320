@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+
+  "name": "320",
+  "description": "This extension reminds you to look away from your screen, protecting your eyes",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "activeTab",
+    "notifications"
+  ]
+}
