@@ -12,3 +12,6 @@ if (window.Notification) {
        notify();
   }, 1200000 );
 }
+else {
+  alert("Must enable notifications for full functionality");
+}
